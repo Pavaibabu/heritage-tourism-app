@@ -19,7 +19,7 @@ const HomePage = () => {
         <h2>Top Heritage Destinations</h2>
         <div className="destination-list">
           <div className="destination-card">
-            <img src="/images/tanjore.jpg" alt="Tanjore Temple" />
+            <img src="\images\Tanjore.jpg" alt="Tanjore Temple" />
             <h3>Tanjore Temple</h3>
           </div>
           <div className="destination-card">
